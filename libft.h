@@ -6,7 +6,7 @@
 /*   By: mumajeed <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/25 17:53:12 by mumajeed          #+#    #+#             */
-/*   Updated: 2025/01/08 10:35:20 by mumajeed         ###   ########.fr       */
+/*   Updated: 2025/01/08 10:52:08 by mumajeed         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,6 +19,7 @@
 # include <stdlib.h>
 # include <string.h>
 # include <unistd.h>
+# include <stdint.h>
 
 //Bonus
 
