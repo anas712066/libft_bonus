@@ -46,12 +46,12 @@ Parte Bonus:
 | Number | Function    | Done  | Testing  | Status  |
 |--------|-------------|---------|-------------|---------|
 | 35     | [ft_lstnew](ft_lstnew_bonus.c)   | ✅      |✅       | ✅       |
-| 36     | [ft_lstadd_front](ft_lstadd_front_bonus.c)  | ✅      | ❌      | ❌      |
-| 37     | [ft_lstsize](ft_lstsize_bonus.c) | ❌      |❌      | ❌      |
-| 38     | [ft_lstlast](ft_lstlast_bonus.c)  | ❌      |❌      | ❌      |
-| 39     | [ft_lstadd_back](ft_lstadd_back_bonus.c)  | ❌      |❌      | ❌      |
-| 40     | [ft_lstdelone](ft_lstdelone_bonus.c)  | ❌      |❌      | ❌      |
-| 41     | [ft_lstclear](ft_lstclear_bonus.c)   | ❌      |❌      | ❌      |
-| 42     | [ft_lstiter](ft_lstiter_bonus.c)   | ❌      |❌      | ❌      |
-| 43     | [ft_lstmap](ft_lstmap_bonus.c)   | ❌      |❌      | ❌      |
+| 36     | [ft_lstadd_front](ft_lstadd_front_bonus.c)  | ✅      | ✅      | ✅      |
+| 37     | [ft_lstsize](ft_lstsize_bonus.c) | ✅      |✅      | ✅      |
+| 38     | [ft_lstlast](ft_lstlast_bonus.c)  | ✅      |✅      | ✅      |
+| 39     | [ft_lstadd_back](ft_lstadd_back_bonus.c)  | ✅      |✅      | ✅      |
+| 40     | [ft_lstdelone](ft_lstdelone_bonus.c)  | ✅      |✅      | ✅      |
+| 41     | [ft_lstclear](ft_lstclear_bonus.c)   | ✅      |✅      | ✅      |
+| 42     | [ft_lstiter](ft_lstiter_bonus.c)   | ✅      |✅      | ✅      |
+| 43     | [ft_lstmap](ft_lstmap_bonus.c)   | ✅      |✅      | ✅      |
 
